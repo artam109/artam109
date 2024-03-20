@@ -3,7 +3,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,python,ts,html,css,gherkin,github,git,idea,pycharm,vscode,jenkins,scala,selenium)](https://skillicons.dev)
 
-[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=artam109/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=artam109/badges)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/artam109)
 
 <!--
