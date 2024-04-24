@@ -30,7 +30,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  
+  ![My Skills](https://simpleskill.icons.workers.dev/svg?i=jirasoftware,git)
+  
 </div>
 
 ###
