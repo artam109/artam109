@@ -33,7 +33,7 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
   
-  ![My Skills](https://simpleskill.icons.workers.dev/svg?i=jirasoftware,git)
+  ![My Skills](https://simpleskill.icons.workers.dev/svg?i=jirasoftware,git,playwright,cypress)
   
 </div>
 
